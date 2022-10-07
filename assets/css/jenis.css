@@ -1,0 +1,91 @@
+.jenis{
+    display: flex;
+    margin-top: 50px;
+    font-weight: bold;
+  }
+
+  .jenis .gambar {
+    flex-basis: 20%;
+    padding-left: 150px;
+    text-align: center;
+    font-size: 25px;
+    color: #880622;
+  }
+
+  .jenis .penjelasan {
+    flex-basis: 80%;
+    padding: 0px 100px 10px 20px;
+    align-items: center;
+  }
+.profil{
+    display: flex;
+    margin-top: 60px;
+    margin-right: 120px;
+    font-weight: normal;
+    text-align: center;
+
+}
+.profil .reza{
+    flex-basis: 33%;
+    padding-left: 150px;
+    text-align: center;
+}
+.profil .fian{
+    flex-basis: 33%;
+    padding-left: 150px;
+    text-align: center;
+}
+.profil .ayu{
+    flex-basis: 33%;
+    padding-left: 150px;
+    text-align: center;
+}
+.profil .rafly{
+    flex-basis: 33%;
+    padding-left: 150px;
+    text-align: center;
+}
+.profil .ika{
+    flex-basis: 33%;
+    padding-left: 150px;
+    text-align: center;
+}
+.profil .anjas{
+    flex-basis: 33%;
+    padding-left: 150px;
+    text-align: center;
+}
+.profil .hipni{
+    flex-basis: 100%;
+    padding-left: 150px;
+    text-align: center;
+}
+.judul{
+    text-align: center;
+    padding-top: 50px;
+}
+img.gambar{
+        width: 500px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+}
+.kalimat{
+    padding: 10px 100px 20px 100px;
+}
+.kalimat2{
+    padding: 15px 100px 75px 100px;
+}
+.bali {
+    height: 120px;
+    width: 100%;
+    background-color: #f8dcdc;
+    text-align: center;
+  }
+
+  .bali h1 {
+    font-weight: bold;
+    color: black;
+    font-size: xx-large;
+    padding-top: 30px;
+  }

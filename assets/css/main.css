@@ -1,0 +1,77 @@
+.main-nav {
+    background-color: #880622;
+    z-index: 1;
+    border-bottom: 1px solid #fff;
+	font-family:Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.main-nav .navbar-nav a.nav-link {
+    color: #fff;
+    font-weight: 600;
+	margin-right: 40px;
+}
+.main-nav .navbar-nav .nav-link.active, .main-nav .navbar-nav .nav-link:hover {
+    color: #fff349;
+}
+.navbar img, main-logo {
+    max-width: 100px;
+	height: 60px; 
+	margin-left: 50px;
+}
+
+.banner {
+	height: 100vh;
+	background: linear-gradient(rgba(0,0,0,.4), rgba(0,0,0,0.4)), url('../img/kumpul\ tari.jpg');
+	background-size: cover;
+	background-position: center;
+	font-family:cursive;
+}
+.box1{
+	width: auto;
+	height: auto;
+	padding: 3%;
+	background:#FFF4F3;
+}
+.content{
+	background-color: #FFF4F3;
+	padding: 3% 5% 3% 5%;
+}
+main.content .daerah a {
+	color: #000000;
+}
+main.content .daerah :hover{
+	color: rgb(255, 145, 0);
+}
+/* footer */
+
+.main-footer-menu h3{
+	color: #fff;
+	margin-bottom: 15px;
+	text-align: center;
+}
+.main-footer-menu a{
+	color: #fff;
+	text-decoration: none;
+}
+.main-footer-menu a:hover{
+	color: rgb(255, 230, 0);
+}
+.main-footer-menu ul {
+	list-style-type: none;
+	padding-left: 0px;
+	margin-left: 0px;
+	text-align: center;
+}
+.main-footer-menu ul li{
+	margin-bottom: 10px;
+	color: blanchedalmond;
+}
+.main-kuy {
+	background-color: #880622;
+	color: #fff;
+}
+.main-footer-copyright {
+	background-color: #74051d;
+	color: #fff;
+}
